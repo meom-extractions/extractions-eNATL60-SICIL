@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11184366.svg)](https://doi.org/10.5281/zenodo.11184366)
+
 # Description of SICIL extractions
 
 This repository describes the SICIL extractions of the [eNATL60](https://github.com/ocean-next/eNATL60) twin simulations : how to get it and how to reproduce it.
